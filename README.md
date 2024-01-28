@@ -7,4 +7,4 @@ We built a workday scheduler using JavaScript and the DayJS jQuery library for t
 ![Web Application Screenshot](/scrnli_1_28_2024_2-20-00%20PM.png)
 
 ## Link to Deployed Application
-[Click here to view the live application!](https://lowerym.github.io/module-challenge-4/)
+[Click here to view the live application!](https://lowerym.github.io/module-challenge-5/)
